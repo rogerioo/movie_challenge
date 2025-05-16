@@ -1,5 +1,5 @@
 [project]
-name = "pyyne-challenge"
+name = "movie_challenge"
 version = "0.1.0"
 description = "Data Pipeline designed based on movies dataset"
 readme = "README.md"
