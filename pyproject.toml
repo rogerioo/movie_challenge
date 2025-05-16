@@ -1,10 +1,11 @@
 [project]
 name = "pyyne-challenge"
 version = "0.1.0"
-description = "Add your description here"
+description = "Data Pipeline designed based on movies dataset"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "fastparquet>=2024.11.0",
     "fuzzywuzzy>=0.18.0",
     "notebook>=7.4.2",
     "pandas>=2.2.3",
