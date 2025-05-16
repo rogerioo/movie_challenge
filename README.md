@@ -91,7 +91,7 @@ jupyter notebook
 
 ## 📄 License
 
-MIT License (or specify if different)
+MIT License
 
 ---
 
